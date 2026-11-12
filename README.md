@@ -59,3 +59,20 @@ Os fundamentos usados aqui estão explicados passo a passo em
 [`stats-foundations`](https://github.com/ghitflux/stats-foundations).
 
 Hélcio Venâncio · [github.com/ghitflux](https://github.com/ghitflux) · Licença MIT
+
+## Como este estudo foi feito
+
+Este estudo foi construído com assistência de IA (Claude Code, da Anthropic), usada como par de programação.
+Declaro a divisão do trabalho porque ela importa para quem avalia:
+
+- **Meu:** o contexto de negócio (teste de landing page é rotina de quem gere mídia paga), o estudo de cada etapa do experimento, a leitura crítica dos resultados e a decisão do que publicar e do que declarar como limitação.
+- **Com o assistente:** a escolha do método, a implementação do código, dos testes e dos gráficos, e a redação,
+  que revisei.
+- **Como conferir:** o notebook roda do início ao fim e regera todas as tabelas e figuras; os dados são simulados, com semente fixa, e isso está dito no topo.
+
+É o mesmo jeito que trabalho nos sistemas que entrego: a IA acelera a implementação, e a responsabilidade pelo que
+está escrito aqui é minha.
+
+*In English: built with AI assistance (Claude Code) as a pair programmer. Direction, business context, critical
+review of the results and the decision of what to publish are mine; method choice, implementation and writing were
+done with the assistant and reviewed by me.*
